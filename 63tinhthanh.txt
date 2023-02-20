@@ -1,0 +1,63 @@
+1	An Giang
+2	Bà rịa – Vũng tàu	(X)
+3	Bắc Giang
+4	Bắc Kạn
+5	Bạc Liêu
+6	Bắc Ninh
+7	Bến Tre			(X)
+8	Bình Định
+9	Bình Dương
+10	Bình Phước
+11	Bình Thuận		(X)
+12	Cà Mau			(X)
+13	Cần Thơ			(X)
+14	Cao Bằng 
+15	Đà Nẵng			(X)
+16	Đắk Lắk
+17	Đắk Nông
+18	Điện Biên
+19	Đồng Nai
+20	Đồng Tháp		(X)
+21	Gia Lai
+22	Hà Giang		(X)
+23	Hà Nam
+24	Hà Nội 			(X)
+25	Hà Tĩnh
+26	Hải Dương		(X)
+27	Hải Phòng		(X)
+28	Hậu Giang
+29	Hòa Bình
+30	Hưng Yên
+31	Khánh Hòa		(X)
+32	Kiên Giang		(X)
+33	Kon Tum
+34	Lai Châu
+35	Lâm Đồng		(X)
+36	Lạng Sơn
+37	Lào Cai			(X)
+38	Long An
+39	Nam Định
+40	Nghệ An
+41	Ninh Bình		(X)
+42	Ninh Thuận		(X)
+43	Phú Thọ
+44	Phú Yên
+45	Quảng Bình
+46	Quảng Nam		(X)
+47	Quảng Ngãi
+48	Quảng Ninh		(X)
+49	Quảng Trị
+50	Sóc Trăng
+51	Sơn La
+52	Tây Ninh
+53	Thái Bình
+54	Thái Nguyên
+55	Thanh Hóa
+56	Thừa Thiên Huế		(X)
+57	Tiền Giang
+58	Thành phố Hồ Chí Minh	(X)
+59	Trà Vinh
+60	Tuyên Quang
+61	Vĩnh Long
+62	Vĩnh Phúc
+63	Yên Bái
